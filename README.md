@@ -1,16 +1,13 @@
 # SSR-Template
-Render React on the Server
+Simple boilerplate for Reactjs rendered on the server
 
+```sh
 // Generates Webpack Bundle
 npm build
 
 // Starts Express Server
 npm start
-
-```sh
-npm install -g create-react-app
-
-create-react-app my-app
-cd my-app/
-npm start
 ```
+
+Feel free to use in future projects!
+Happy Coding :)
